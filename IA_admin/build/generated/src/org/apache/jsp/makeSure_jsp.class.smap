@@ -1,0 +1,17 @@
+SMAP
+makeSure_jsp.java
+JSP
+*S JSP
+*F
++ 0 makeSure.jsp
+makeSure.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,4:50
+5#1,17:53
+8#0,6:70
+1#2,11:75
+*E

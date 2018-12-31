@@ -1,0 +1,25 @@
+.login-form,
+.register-form,
+.cv-form{
+    width:35%;
+    margin: auto;
+}
+.login-form h1,
+.register-form h1
+{
+    margin-top: 35%;
+}
+
+.login-form form
+.register-form form{
+   margin-top: 8%; 
+   
+}
+.login-form form input,
+.register-form form input,
+.register-form form select,
+.cv-form input{
+    
+    margin-top: 15px;
+}
+

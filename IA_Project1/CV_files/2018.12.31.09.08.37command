@@ -1,0 +1,21 @@
+sudo -u postgres psql 
+/vagrant$ sudo -u postgres psql news < newsdata.sql
+
+
+//xampp
+
+sudo ./xampp-linux-*-installer.run
+sudo /opt/lampp/lampp start
+
+// problem apche2
+sudo /etc/init.d/apache2 stop
+sudo /etc/init.d/mysql stop
+sudo /etc/init.d/proftpd stop
+sudo /opt/lampp/lampp start
+
+//get folder permession
+
+sudo chown -R username:www-data /path/to/directory
+
+
+

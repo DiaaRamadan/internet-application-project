@@ -1,0 +1,17 @@
+SMAP
+exam_jsp.java
+JSP
+*S JSP
+*F
++ 0 exam.jsp
+exam.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,4:50
+5#1,17:53
+8#0,7:70
+1#2,11:76
+*E
